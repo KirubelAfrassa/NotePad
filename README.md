@@ -6,4 +6,4 @@ ve gunceleme, başılık, ve tarihi göre kaydetme işlemelerin yapımatadır.
 Referans
 https://github.com/mhb2266/test
 
-Öğrenci no 14011095 
+
